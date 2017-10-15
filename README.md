@@ -2,7 +2,7 @@
 How to upload multiple images on cloudinary with Node JS.
 
 clone the repository 
-run `npm install'
+run `npm install`
 after installing necessary dependencies 
 run `node index.js`
 
