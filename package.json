@@ -1,0 +1,23 @@
+{
+  "name": "multiple_upload_api",
+  "version": "1.0.0",
+  "description": "An API that allows multiple image upload to Cloudinary",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "keywords": [
+    "cloudinary",
+    "multiple",
+    "images",
+    "upload",
+    "node.js"
+  ],
+  "author": "codebyomar",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cloudinary": "^1.9.0",
+    "express": "^4.16.2"
+  }
+}
